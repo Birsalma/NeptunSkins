@@ -56,7 +56,7 @@ var arrow_right = $("#mainfunctionarrow")[0];
 var crosses = $('[src$="16_ghb_close.png"]');
 var refreshers = $('[src$="16_ghb_refresh.png"]');
 
-const base_url = "https://Birsalma.github.io/NeptunSkins/";
+const base_url = "https://Birsalma.github.com/NeptunSkins/";
 const skins = ["Mezga-Kriszta","Neptune", "Yotsuba", "Menhera-dark", "Menhera-light", "PinkPanther", "Lain"];
 
 var commoncss = document.createElement("link");
