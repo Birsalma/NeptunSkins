@@ -15,7 +15,7 @@
 // @author         --
 // @icon           https://balint66.github.io/NeptunSkins/repo_assets/icon.webp
 // @description    11/24/2020, 3:09:00 PM
-// @downloadURL    https://raw.githubusercontent.com/Balint66/Birsalma/master/neptune.user.js
+// @downloadURL    https://raw.githubusercontent.com/Birsalma/master/neptune.user.js
 // ==/UserScript==
 
 const $ = window.jQuery;
@@ -56,8 +56,8 @@ var arrow_right = $("#mainfunctionarrow")[0];
 var crosses = $('[src$="16_ghb_close.png"]');
 var refreshers = $('[src$="16_ghb_refresh.png"]');
 
-const base_url = "https://Balint66.github.io/NeptunSkins/";
-const skins = ["Mézga Kriszta","Neptune", "Yotsuba", "Menhera-dark", "Menhera-light", "PinkPanther", "Lain"];
+const base_url = "https://Birsalma.github.io/NeptunSkins/";
+const skins = ["Mezga-Kriszta","Neptune", "Yotsuba", "Menhera-dark", "Menhera-light", "PinkPanther", "Lain"];
 
 var commoncss = document.createElement("link");
 commoncss.rel = "stylesheet";
